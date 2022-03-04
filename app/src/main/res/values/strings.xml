@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProgressBar</string>
+    <string name="titleAplication">Usando Barras de Progresso</string>
+    <string name="btnProgressBarAction">Continuar...</string>
+</resources>
